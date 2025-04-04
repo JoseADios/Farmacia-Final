@@ -1,4 +1,4 @@
-# 🏥 Sistema de Control de Medicamentos para Farmacia
+# 🏥 Sistema de Reportes de Medicamentos para Farmacia
 
 ## 📖 Descripción
 Este proyecto es un caso de estudio ficticio que aborda las dificultades en la gestión de inventarios y ventas en una farmacia. La falta de un sistema informatizado ha generado problemas en el manejo de la información sobre ventas y disponibilidad de productos.
